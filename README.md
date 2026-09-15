@@ -82,14 +82,14 @@ You can also register a new user from the application.
 ## 📸 Screenshots
 
 ### 1. Login & Registration
-![Login](Login.png)
-![Registration](Registration.png)
+![Login](screenshorts/Login.png)
+![Registration](screenshorts/Registration.png)
 
 ### 2. Booking Operations
-![Search Train](SearchTrain.png)
-![Book Ticket](BookTicket.png)
-![View Booking](ViewBooking.png)
-![Booking History](BookingHistory.png)
-![Cancel Ticket](CancelTicket.png)
-![Log Out](LogOut.png)
+![Search Train](screenshorts/SearchTrain.png)
+![Book Ticket](screenshorts/BookTicket.png)
+![View Booking](screenshorts/ViewBooking.png)
+![Booking History](screenshorts/BookingHistory.png)
+![Cancel Ticket](screenshorts/CancelTicket.png)
+![Log Out](screenshorts/LogOut.png)
 
