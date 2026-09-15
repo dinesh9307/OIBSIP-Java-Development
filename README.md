@@ -86,10 +86,10 @@ You can also register a new user from the application.
 ![Registration](screenshots/Registration.png)
 
 ### 2. Booking Operations
-![Search Train](screenshots/Search%20Train.png)
-![Book Ticket](screenshots/Book%20Ticket.png)
-![View Booking](screenshots/View%20Booking.png)
-![Booking History](screenshots/Booking%20History.png)
-![Cancel Ticket](screenshots/Cancel%20Ticket.png)
-![Log Out](screenshots/Log%20Out.png)
+![Search Train](screenshots/SearchTrain.png)
+![Book Ticket](screenshots/BookTicket.png)
+![View Booking](screenshots/ViewBooking.png)
+![Booking History](screenshots/BookingHistory.png)
+![Cancel Ticket](screenshots/CancelTicket.png)
+![Log Out](screenshots/LogOut.png)
 
