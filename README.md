@@ -79,7 +79,3 @@ You can also register a new user from the application.
 - Switch expressions
 - Date/time API
 
-## Important Note
-
-This is an educational Core Java console project. It does not use a real database or online payment gateway.
-
