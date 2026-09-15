@@ -79,3 +79,15 @@ You can also register a new user from the application.
 - Switch expressions
 - Date/time API
 
+ ## 📸 Screenshots
+
+### 1. Login & Registration
+![Login](screenshots/Login.png)
+![Registration](screenshots/Registration.png)
+
+### 2. Booking & Operations
+![Book Ticket](screenshots/Book%20Ticket.png)
+![Booking History](screenshots/Booking%20History.png)
+![Cancel Ticket](screenshots/Cancel%20Ticket.png)
+![Log Out](screenshots/Log%20Out.png)
+
